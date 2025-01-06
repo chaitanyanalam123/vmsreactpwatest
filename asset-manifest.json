@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9e37a696.css",
-    "main.js": "/static/js/main.2f7cd668.js",
+    "main.js": "/static/js/main.68f5c361.js",
     "static/js/453.68693753.chunk.js": "/static/js/453.68693753.chunk.js",
     "static/media/rolemenu.jpg": "/static/media/rolemenu.5a689b3558a9b3408665.jpg",
     "static/media/cwilogo.png": "/static/media/cwilogo.586b715a971a35769cf1.png",
@@ -11,11 +11,11 @@
     "static/media/labour.svg": "/static/media/labour.dba73d5273771c080350cb69b7540e4c.svg",
     "index.html": "/index.html",
     "main.9e37a696.css.map": "/static/css/main.9e37a696.css.map",
-    "main.2f7cd668.js.map": "/static/js/main.2f7cd668.js.map",
+    "main.68f5c361.js.map": "/static/js/main.68f5c361.js.map",
     "453.68693753.chunk.js.map": "/static/js/453.68693753.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9e37a696.css",
-    "static/js/main.2f7cd668.js"
+    "static/js/main.68f5c361.js"
   ]
 }
